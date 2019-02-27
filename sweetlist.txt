@@ -2,4 +2,3 @@ cake
 ice cream
 candy
 other
-tree
